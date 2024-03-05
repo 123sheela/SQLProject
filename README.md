@@ -1,5 +1,5 @@
 
-# This is a Simple SQL QUERY 
+#  A Simple SQL Query Table for Books
 
 ## BOOKS
 
